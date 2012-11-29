@@ -13,8 +13,6 @@ package AudioExtractorUI;
 
 import DomainClasses.Converter;
 import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
 import javax.swing.JComboBox;
 import javax.swing.JFileChooser;
 
